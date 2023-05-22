@@ -1,21 +1,21 @@
-./crud-vue-tauri/DS_Store
-./crud-vue-tauri/node_modules
-./crud-vue-tauri/dist
+./*/DS_Store
+./*/node_modules
+./*/dist
 
 
 # local env files
-./crud-vue-tauri/env.local
-./crud-vue-tauri/env.*.local
+./*/env.local
+./*/env.*.local
 
 # Log files
-./crud-vue-tauri/npm-debug.log*
-./crud-vue-tauri/yarn-debug.log*
-./crud-vue-tauri/yarn-error.log*
-./crud-vue-tauri/pnpm-debug.log*
+./*/npm-debug.log*
+./*/yarn-debug.log*
+./*/yarn-error.log*
+./*/pnpm-debug.log*
 
 # Editor directories and files
-./crud-vue-tauri/idea
-./crud-vue-tauri/vscode
+./*/idea
+./*/vscode
 *.suo
 *.ntvs*
 *.njsproj
